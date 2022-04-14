@@ -22,11 +22,8 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -36,7 +33,7 @@ Cambium Technical Test
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -46,7 +43,7 @@ Node.js LTS
 
 ### Installing
 
-Builds frontend assets by navigating to !RoboSquad.Web > robosquad-ui! using your favorite terminal app (I like powershell), then run:
+Builds frontend assets by navigating to "RoboSquad.Web > robosquad-ui" using your favorite terminal app (I like powershell), then run:
 
 ```
 $ npm install
